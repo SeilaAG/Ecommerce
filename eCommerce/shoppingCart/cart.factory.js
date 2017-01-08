@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('eCommerceApp')
+        .module('eCommerceApp.cart')
         .controller('CartFactory', CartFactory);
 
     function CartFactory() {

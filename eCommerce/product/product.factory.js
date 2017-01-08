@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('eCommerceApp')
+        .module('eCommerceApp.product')
         .factory('productFactory', ProductFactory);
 
     function ProductFactory() {
