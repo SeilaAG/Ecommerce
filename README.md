@@ -2,7 +2,7 @@
  This project implements an e-commerce website using AngularJs Framework.
 
 # <a name="project-owner"></a>Project owner
- *"Kathia amarante Garcia" <seilamarante@hotmail.com>
+ *"Kathia Amarante"
 
 # Project Dependencies
  This project is developed on Visual Studio and has the following dependencies:
