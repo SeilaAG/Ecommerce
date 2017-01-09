@@ -1,0 +1,69 @@
+﻿{
+  "products": [
+    {
+      "category": "Drinks",
+      "details": "Nunc viverra imperdiet enim.",
+      "id": 1,
+      "name": "Milk",
+      "price": 0.59,
+      "src": "//"
+    },
+    {
+      "category": "Drinks",
+      "details": " Proin pharetra nonummy pede. Mauris et orci.",
+      "id": 2,
+      "name": "Apple Juice",
+      "price": 1.23,
+      "src": "//"
+    },
+     {
+      "category": "Drinks",
+      "details": "Proin pharetra nonummy pede. Mauris et orci.",
+      "id": 3,
+      "name": "Wine",
+      "price": 9.99,
+      "src": "//"
+    },
+    {
+      "category": "Fruits",
+      "details": "Aenean nonummy augue. ",
+      "id": 4,
+      "name": "Lemon",
+      "price": 0.50,
+      "src": "//"
+    }
+    ,
+    {
+      "category": "Fruits",
+      "details": "Mauris eget ",
+      "id": 5,
+      "name": "Banana",
+      "price": 0.99,
+      "src": "//"
+    },
+    {
+      "category": "Fruits",
+      "details": "Vulputate vitae, pretium mattis, nunc. Mauris eget ",
+      "id": 6,
+      "name": "Apple",
+      "price": 1.5,
+      "src": "//"
+    },
+    {
+      "category": "Bakery",
+      "details": "Suspendisse dui purus, pretium mattis, nunc. Mauris eget ",
+      "id": 7,
+      "name": "Chocolate Cake",
+      "price": 4.5,
+      "src": "//"
+    } ,
+     {
+      "category": "Bakery",
+      "details": "Dui purus, scelerisque at ",
+      "id": 8,
+      "name": "White Bread",
+      "price": 4.5,
+      "src": "//"
+    }
+  ]
+}
